@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react-master-to-do-list/static/css/main.e1c8cc5a.css",
+    "main.js": "/react-master-to-do-list/static/js/main.b1112548.js",
+    "index.html": "/react-master-to-do-list/index.html",
+    "main.b1112548.js.map": "/react-master-to-do-list/static/js/main.b1112548.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1c8cc5a.css",
+    "static/js/main.b1112548.js"
+  ]
+}
